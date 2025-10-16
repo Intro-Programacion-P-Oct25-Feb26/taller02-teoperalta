@@ -87,7 +87,8 @@ Versionado a través de Git
 Manejado desde GitHub
 Además se usar GitHubClassroom
 ```
-
+# Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub
 17. Regresar al git-bash (verificar que estemos dentro de la carpeta clonada)
 18. Ejecutar el comando
 
